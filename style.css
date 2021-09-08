@@ -26,6 +26,7 @@ body{
     margin-left: -12px;
     margin-bottom: -40px;
     margin-top: 0px;
+  
   }
   h3 {
     background-color: #b7d7e8;
@@ -37,6 +38,7 @@ body{
     margin-right: -12px; 
     border-bottom: black; border-bottom: solid;
   }
+
   h4 {
     background-color: #87bdd8;
     font-family: Cambria;
